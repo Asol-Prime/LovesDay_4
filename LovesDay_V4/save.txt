@@ -1,0 +1,35 @@
+#LOVES DAY SAVE
+#Thu Oct 01 14:37:09 GMT-03:00 2026
+altura=1.85
+cabelo=CURTO
+cash=750
+diaAtual=0
+estilos=NERD
+genero=MASCULINO
+item.AGROBOY=0
+item.CANTADAS=0
+item.COACH=0
+item.CORACAO=0
+item.EMO=0
+item.ENERGETICO=0
+item.FUNKEIRO=0
+item.GAMER=0
+item.GYMRATS=0
+item.HIPPIE=0
+item.KPOPERS=0
+item.NERD=0
+item.NOIA=0
+item.PAIDEPET=0
+item.PATRICINHA=0
+item.PERFUME=0
+item.PLAYBOY=0
+item.PLAYBOY\ GAY=0
+item.SEGURO=0
+item.TIKTOKER=0
+item.TRUFILHO=1
+item.TWINK=0
+matchs=0
+nome=Cleito
+renascimentos=0
+sexualidade=HETEROSEXUAL
+vidas=5
